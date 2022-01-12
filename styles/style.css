@@ -168,10 +168,15 @@ height: 184px;
   font-size: 15px;
   color: #ED6B4F;
 }
+.rating {
+  color: rgba(128, 128, 128, 0.507);
+}
 .duration {
-  border: 1px solid #FF4A60;
-  border-radius:0 10px 0 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius:25px 25px 25px 25px;
   color: #FF4A60;
+  background-color:rgba(255, 74, 95, 0.150);
 }
 
 /*--------
